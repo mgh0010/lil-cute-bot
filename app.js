@@ -4,7 +4,7 @@ const director = require('director');
 const Server   = require('./lib/server');
 
 // Create a router for GET and POST requests to the app
-const router = nee director.http.Router({
+const router = director.http.Router({
     '/': {
         post: Server.postResponse,
         get: Server.getResponse
