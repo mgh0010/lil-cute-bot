@@ -14,6 +14,7 @@
   "dependencies": {
     "director": "1.2.8",
     "dotenv": "2.0.0",
+    "require": "^2.4.20",
     "weather.js": "^0.1.0",
     "winston": "2.2.0"
   },
