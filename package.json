@@ -12,6 +12,7 @@
     "node": ">=8.9.1"
   },
   "dependencies": {
+    "ddg-api": "0.0.1",
     "director": "1.2.8",
     "dotenv": "2.0.0",
     "request": "^2.83.0",
